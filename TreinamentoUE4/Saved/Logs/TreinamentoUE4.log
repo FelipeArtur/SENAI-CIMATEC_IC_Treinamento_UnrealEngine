@@ -1,0 +1,1286 @@
+﻿Log file open, 04/26/23 12:07:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TreinamentoUE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 16.443211
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5500U with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=XPXDEMOLIDOR -epicuserid=433e37a7ee164e3580d399ba10c42550 -epiclocale=pt-BR -epicsandboxid=ue
+LogInit: Base Directory: D:/Programas/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.26-15.07.37:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:025][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.26-15.07.37:103][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.26-15.07.37:134][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.26-15.07.37:134][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.26-15.07.37:150][  0]LogHAL: Display: Platform has ~ 6 GB [6280437760 / 8589934592 / 6], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.26-15.07.37:181][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.26-15.07.37:181][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.26-15.07.37:181][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Scalability.ini]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.26-15.07.37:196][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.26-15.07.37:244][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.26-15.07.37:244][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.26-15.07.37:244][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.26-15.07.37:244][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Engine.ini]
+[2023.04.26-15.07.37:244][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Config/Windows/Editor.ini]
+[2023.04.26-15.07.37:385][  0]LogInit: Computer: LIPE3I
+[2023.04.26-15.07.37:385][  0]LogInit: User: XPXLI
+[2023.04.26-15.07.37:385][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.04.26-15.07.37:385][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.26-15.07.37:385][  0]LogMemory: Memory total: Physical=5.8GB (6GB approx)
+[2023.04.26-15.07.37:403][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.26-15.07.37:403][  0]LogMemory: Process Physical Memory: 146.08 MB used, 146.08 MB peak
+[2023.04.26-15.07.37:403][  0]LogMemory: Process Virtual Memory: 130.05 MB used, 130.05 MB peak
+[2023.04.26-15.07.37:403][  0]LogMemory: Physical Memory: 5149.72 MB used,  839.77 MB free, 5989.49 MB total
+[2023.04.26-15.07.37:403][  0]LogMemory: Virtual Memory: 134211248.00 MB used,  6478.00 MB free, 134217728.00 MB total
+[2023.04.26-15.07.37:416][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.26-15.07.40:227][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.26-15.07.40:494][  0]LogInit: Using OS detected language (pt-BR).
+[2023.04.26-15.07.40:494][  0]LogInit: Using OS detected locale (pt-BR).
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2023.04.26-15.07.42:557][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2023.04.26-15.07.42:604][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.26-15.07.42:886][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.26-15.07.43:714][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.26-15.07.43:714][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.26-15.07.46:759][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.04.26-15.07.46:931][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.26-15.07.46:958][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.26-15.07.46:958][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.26-15.07.46:958][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.26-15.07.47:178][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.04.26-15.07.47:189][  0]LogD3D11RHI:       2031/0/2994 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:       0/0/2994 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     DeviceId    : 164c
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     SubSysId    : 3f9517aa
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     Revision    : 00c2
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     DedicatedVideoMemory : 2130247680 bytes
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     SharedSystemMemory : 3140218880 bytes
+[2023.04.26-15.07.47:195][  0]LogD3D11RHI:     AdapterLuid : 0 63636
+[2023.04.26-15.07.47:201][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.26-15.07.47:201][  0]LogD3D11RHI:     GPU DeviceId: 0x164c (for the marketing name, search the web for "GPU Device Id")
+[2023.04.26-15.07.47:201][  0]LogWindows: EnumDisplayDevices:
+[2023.04.26-15.07.47:202][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.04.26-15.07.47:202][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.26-15.07.47:202][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.04.26-15.07.47:203][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.04.26-15.07.47:203][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.04.26-15.07.47:203][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 23.4.2 (internal:31.0.14051.1000, unified:31.0.14051.1000)
+[2023.04.26-15.07.47:203][  0]LogD3D11RHI:      Driver Date: 4-12-2023
+[2023.04.26-15.07.47:203][  0]LogRHI: Texture pool is 3166 MB (70% of 4523 MB)
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     DeviceId    : 164c
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     SubSysId    : 3f9517aa
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     Revision    : 00c2
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     DedicatedVideoMemory : 2130247680 bytes
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     SharedSystemMemory : 3140218880 bytes
+[2023.04.26-15.07.47:293][  0]LogD3D11RHI:     AdapterLuid : 0 63636
+[2023.04.26-15.07.47:387][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.04.26-15.07.47:387][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.04.26-15.07.47:387][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.26-15.07.47:387][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.26-15.07.48:582][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2023.04.26-15.07.50:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.26-15.07.50:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.26-15.07.50:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.26-15.07.50:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.26-15.07.51:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.26-15.07.51:249][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.26-15.07.51:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.26-15.07.51:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.26-15.07.51:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.26-15.07.51:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.26-15.07.51:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.26-15.07.52:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.26-15.07.52:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.26-15.07.52:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.26-15.07.52:310][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.26-15.07.52:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.26-15.07.52:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.26-15.07.52:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.26-15.07.52:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.26-15.07.52:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.26-15.07.52:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.26-15.07.52:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.26-15.07.52:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.26-15.07.52:889][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.26-15.07.53:436][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.26-15.07.54:638][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.04.26-15.07.58:146][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.26-15.07.58:236][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Intermediate/Shaders/WorkingDirectory/4756/).
+[2023.04.26-15.07.58:236][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/XPXLI/AppData/Local/Temp/UnrealShaderWorkingDir/2AA41FA1455A1D82F3F3D881C7CFBA7C/'.
+[2023.04.26-15.07.58:256][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.04.26-15.07.58:256][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.26-15.07.58:256][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.26-15.08.02:466][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.26-15.08.02:665][  0]LogDerivedDataCache: Loaded boot cache 0.13s 94MB C:/Users/XPXLI/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.26-15.08.02:665][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/XPXLI/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.04.26-15.08.02:678][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.26-15.08.02:678][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.26-15.08.02:678][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.26-15.08.02:678][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.26-15.08.02:736][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.26-15.08.02:736][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.26-15.08.02:736][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.26-15.08.02:756][  0]LogDerivedDataCache: Speed tests for C:/Users/XPXLI/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.04.26-15.08.02:762][  0]LogDerivedDataCache: Display: Performance to C:/Users/XPXLI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=124.22MBs, RandomWriteSpeed=94.52MBs. Assigned SpeedClass 'Local'
+[2023.04.26-15.08.02:777][  0]LogDerivedDataCache: Using Local data cache path C:/Users/XPXLI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.26-15.08.02:777][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.26-15.08.02:777][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.26-15.08.03:128][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.26-15.08.03:226][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.26-15.08.04:106][  0]LogAssetRegistry: FAssetRegistry took 0.0064 seconds to start up
+[2023.04.26-15.08.33:536][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.26-15.08.33:536][  0]LogInit: Active device profile: [000002CC801D7600][000002CCFEA0BB00 49] Windows
+[2023.04.26-15.08.33:536][  0]LogInit: Profiles: [000002CC801D7600][000002CCFEA0BB00 49] Windows, [000002CC80198C00][000002CCFFDB2240 49] WindowsNoEditor, [000002CC801D4C00][000002CCFFDB6500 49] WindowsServer, [000002CC8019AF00][000002CCFFDBA7C0 49] WindowsClient, [000002CC801D6E00][000002CCFFDAEA40 49] IOS, [000002CC80199400][000002CCFFDBECC0 49] iPadAir, [000002CC801D5300][000002CCFFDC6F80 49] iPadAir2, [000002CC8014BF00][000002CCFFDDB4C0 49] IPadPro, [000002CC8014BE00][000002CCFFDCB500 49] iPadAir3, [000002CC801D6900][000002CCFFDD37C0 49] iPadAir4, [000002CC80149100][000002CCFFDCFA80 49] iPadMini2, [000002CC801D5700][000002CCFFDD61C0 49] iPadMini3, [000002CC8014A900][000002CCFFDDE480 49] iPadMini4, [000002CC801D7700][000002CCFFDE2740 49] iPadMini5, [000002CC80187800][000002CCFFDF2C40 49] iPhone6, [000002CC80187900][000002CCFFDE6C80 49] iPodTouch6, [000002CC80149200][000002CCFFDFF180 49] iPhone7, [000002CC80149300][000002CCFFDC31C0 49] iPodTouch7, [000002CC80185000][000002CCFFDF7480 49] iPhone5S, [000002CC8014AC00][000002CCFFDEB740 49] iPhone6Plus, [000002CC80186A00][000002CCFFDFBA00 49] iPhone6S, [000002CC80148D00][000002CCFFE02140 49] iPhone6SPlus, [000002CC80185700][000002CCFFE06400 49] iPhone7Plus, [000002CC8014BD00][000002CCFFE0A6C0 49] iPhoneSE, [000002CC80186300][000002CCFFE0E980 49] iPhone8, [000002CC8014B600][000002CCFFE12C40 49] iPhone8Plus, [000002CC80184F00][000002CCFFDEEEC0 49] iPhoneX, [000002CC80149A00][000002CCFFE17140 49] iPhoneXS, [000002CC80186C00][000002CC81001400 49] iPhoneXSMax, [000002CC8014AD00][000002CC810056C0 49] iPhoneXR, [000002CC80185400][000002CC81009980 49] iPhone11, [000002CC80148800][000002CC8100C0C0 49] iPhone11Pro, [000002CC80185900][000002CC81010380 49] iPhone11ProMax, [000002CC8014A500][000002CC81014640 49] iPhoneSE2, [000002CC80185300][000002CC81018900 49] iPhone12Mini, [000002CC8014B300][000002CC8101CBC0 49] iPhone12, [000002CC80186800][000002CC81020E80 49] iPhone12Pro, [000002CC8014B500][000002CCFFE1B100 49] iPhone12ProMax, [000002CC80184D00][000002CC81025380 49] iPadPro105, [000002CC8014B000][000002CC8102D640 49] iPadPro129, [000002CC80186200][000002CC81031900 49] iPadPro97, [000002CC8014B700][000002CC81035BC0 49] iPadPro2_129, [000002CC80187A00][000002CC81038300 49] iPad5, [000002CC80149500][000002CC8103C5C0 49] iPad6, [000002CC80186700][000002CC81040880 49] iPad7, [000002CC8014A000][000002CC81044B40 49] iPad8, [000002CC80185100][000002CC81048E00 49] iPadPro11, [000002CC80148300][000002CC8104D0C0 49] iPadPro2_11, [000002CC80184800][000002CC81029340 49] iPadPro3_129, [000002CC80148F00][000002CC810515C0 49] iPadPro4_129, [000002CC80186000][000002CC81059880 49] AppleTV, [000002CC80149400][000002CC8105DB40 49] AppleTV4K, [000002CC80185E00][000002CC81060280 49] TVOS, [000002CC80148200][000002CC81064540 49] Mac, [000002CC80186500][000002CC81068800 49] MacClient, [000002CC80149900][000002CC8106CAC0 49] MacNoEditor, [000002CC80184A00][000002CC81070D80 49] MacServer, [000002CC80148700][000002CC81075040 49] Linux, [000002CC80184200][000002CC81079300 49] LinuxAArch64, [000002CC8014A200][000002CC81055580 49] LinuxNoEditor, [000002CC80186100][000002CC81081840 49] LinuxAArch64NoEditor, [000002CC80280100][000002CC81085B00 49] LinuxClient, [000002CC8019BF00][000002CC81088240 49] LinuxAArch64Client, [000002CC80281500][000002CC8108C500 49] LinuxServer, [000002CC80198D00][000002CC810907C0 49] LinuxAArch64Server, [000002CC80280300][000002CC81094A80 49] Android, [000002CC8019B400][000002CC81098D40 49] Android_Low, [000002CC80280A00][000002CC8109D000 49] Android_Mid, [000002CC80199200][000002CC810A12C0 49] Android_High, [000002CC80280F00][000002CC8107D540 49] Android_Default, [000002CC80198100][000002CC810A57C0 49] Android_Adreno4xx, [000002CC80281E00][000002CC810ADA80 49] Android_Adreno5xx_Low, [000002CC80199C00][000002CC810B01C0 49] Android_Adreno5xx, [000002CC80281300][000002CC810B4480 49] Android_Adreno6xx, [000002CC80198200][000002CC810B8740 49] Android_Adreno6xx_Vulkan, [000002CC80282200][000002CC810BCA00 49] Android_Mali_T6xx, [000002CC8019AA00][000002CC810C0CC0 49] Android_Mali_T7xx, [000002CC80280C00][000002CC810C4F80 49] Android_Mali_T8xx, [000002CC8019BE00][000002CC810C9240 49] Android_Mali_G71, [000002CC80281F00][000002CC810CD500 49] Android_Mali_G72, [000002CC8019A800][000002CC810A9780 49] Android_Mali_G72_Vulkan, [000002CC80282000][000002CC810D1A00 49] Android_Mali_G76, [000002CC80198A00][000002CC810D8140 49] Android_Mali_G76_Vulkan, [000002CC80185200][000002CC810DC400 49] Android_Mali_G77, [000002CC8014B200][000002CC810E06C0 49] Android_Mali_G77_Vulkan, [000002CC80187F00][000002CC810E4980 49] Android_Mali_G78, [000002CC8014AB00][000002CC810E8C40 49] Android_Mali_G78_Vulkan, [000002CC80185B00][000002CC810ECF00 49] Android_Mali_G710, [000002CC8014BB00][000002CC810F11C0 49] Android_Mali_G710_Vulkan, [000002CC80184600][000002CC810F5480 49] Android_Vulkan_SM5, [000002CC8014B100][000002CC810F9740 49] Android_PowerVR_G6xxx, [000002CC80187200][000002CC810D59C0 49] Android_PowerVR_GT7xxx, [000002CC80149C00][000002CC810FC0C0 49] Android_PowerVR_GE8xxx, [000002CC80184C00][000002CC81104380 49] Android_PowerVR_GM9xxx, [000002CC8014B900][000002CC81108640 49] Android_PowerVR_GM9xxx_Vulkan, [000002CC80281D00][000002CC8110C900 49] Android_TegraK1, [000002CC80148900][000002CC81110BC0 49] Android_Unknown_Vulkan, [000002CC80280400][000002CC81114E80 49] Lumin, [000002CC8014A300][000002CC81119140 49] Lumin_Desktop, [000002CC80280200][000002CC8111D400 49] HoloLens, 
+[2023.04.26-15.08.36:765][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.26-15.08.36:765][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.26-15.08.36:765][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.26-15.08.36:766][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.26-15.08.36:766][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.26-15.08.39:312][  0]LogNetVersion: TreinamentoUE4 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1256239599)
+[2023.04.26-15.08.58:374][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.04.26-15.08.59:886][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.26-15.09.00:309][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.04.26-15.09.00:309][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.04.26-15.09.00:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.26-15.09.18:102][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E715F3A845C97CAE0C8078B2282EC307 | Instance: FE14BC8645D47DAEC73A8C9D760BCA84 (LIPE3I-4756).
+[2023.04.26-15.09.19:545][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.26-15.09.19:782][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.26-15.09.20:183][  0]LogPython: Using Python 3.7.7
+[2023.04.26-15.09.24:829][  0]SourceControl: Controle de origem desativado
+[2023.04.26-15.09.24:846][  0]SourceControl: Controle de origem desativado
+[2023.04.26-15.09.25:161][  0]SourceControl: Controle de origem desativado
+[2023.04.26-15.09.25:232][  0]SourceControl: Controle de origem desativado
+[2023.04.26-15.09.25:333][  0]SourceControl: Controle de origem desativado
+[2023.04.26-15.09.25:405][  0]LogUProjectInfo: Found projects:
+[2023.04.26-15.09.29:671][  0]LogOpenImageDenoise: OIDN starting up
+[2023.04.26-15.09.30:005][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.26-15.09.30:087][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.26-15.09.30:087][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.26-15.09.31:615][  0]LogCollectionManager: Loaded 0 collections in 0.000812 seconds
+[2023.04.26-15.09.32:161][  0]LogFileCache: Scanning file cache for directory 'D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Collections/' took 0.01s
+[2023.04.26-15.09.32:161][  0]LogFileCache: Scanning file cache for directory 'D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/Developers/XPXLI/Collections/' took 0.00s
+[2023.04.26-15.09.32:161][  0]LogFileCache: Scanning file cache for directory 'D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/Collections/' took 0.00s
+[2023.04.26-15.09.32:161][  0]LogOcInput: OculusInput pre-init called
+[2023.04.26-15.09.43:116][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (4.10s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 3796ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2023.04.26-15.09.43:504][  0]LogEngine: Initializing Engine...
+[2023.04.26-15.09.43:861][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.04.26-15.09.43:862][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.26-15.09.43:862][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.26-15.09.44:193][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.012 s
+[2023.04.26-15.09.45:125][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.26-15.09.46:655][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.26-15.09.46:927][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.26-15.09.47:035][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.04.26-15.09.47:077][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.04.26-15.09.47:128][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.26-15.09.47:128][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.26-15.09.47:171][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-15.09.47:172][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-15.09.47:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-15.09.47:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-15.09.47:172][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-15.09.47:172][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-15.09.47:172][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-15.09.47:208][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-15.09.47:226][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-15.09.47:226][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-15.09.47:226][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-15.09.47:227][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-15.09.47:494][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-15.09.47:494][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-15.09.47:726][  0]LogAudioMixer: Display: Using Audio Device Fones de ouvido (AA-ER3)
+[2023.04.26-15.09.47:825][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-15.09.47:865][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-15.09.47:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-15.09.47:882][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-15.09.47:882][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-15.09.47:882][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-15.09.47:890][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-15.09.47:890][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-15.09.47:890][  0]LogInit: FAudioDevice initialized.
+[2023.04.26-15.09.48:008][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.26-15.09.48:049][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.26-15.09.49:324][  0]LogDerivedDataCache: Saved boot cache 1.21s 94MB C:/Users/XPXLI/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.04.26-15.09.49:342][  0]LogInit: Texture streaming: Enabled
+[2023.04.26-15.09.49:901][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.04.26-15.09.50:081][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.26-15.09.50:112][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.26-15.09.50:225][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.26-15.09.51:130][  0]LogInit: Transaction tracking system initialized
+[2023.04.26-15.09.51:657][  0]BlueprintLog: New page: Carregar Editor
+[2023.04.26-15.09.54:158][  0]LocalizationService: Localization service is disabled
+[2023.04.26-15.09.54:796][  0]TimingProfiler: Initialize
+[2023.04.26-15.09.54:798][  0]TimingProfiler: OnSessionChanged
+[2023.04.26-15.09.54:798][  0]LoadingProfiler: Initialize
+[2023.04.26-15.09.54:798][  0]LoadingProfiler: OnSessionChanged
+[2023.04.26-15.09.54:798][  0]NetworkingProfiler: Initialize
+[2023.04.26-15.09.54:798][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.26-15.09.54:798][  0]MemoryProfiler: Initialize
+[2023.04.26-15.09.54:798][  0]MemoryProfiler: OnSessionChanged
+[2023.04.26-15.09.59:023][  0]LogFileCache: Scanning file cache for directory 'D:/Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/' took 0.00s
+[2023.04.26-15.09.59:023][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.26-15.09.59:023][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.26-15.10.10:786][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.26-15.10.11:111][  0]SourceControl: Controle de origem desativado
+[2023.04.26-15.10.11:142][  0]LogUnrealEdMisc: Loading editor; pre map load, took 207.347
+[2023.04.26-15.10.11:452][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Programas/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.26-15.10.11:510][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-15.10.11:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.11:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-15.10.11:692][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.04.26-15.10.11:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.04.26-15.10.11:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.04.26-15.10.11:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.04.26-15.10.11:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.04.26-15.10.11:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.04.26-15.10.11:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.04.26-15.10.11:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.04.26-15.10.11:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.04.26-15.10.11:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.04.26-15.10.11:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.04.26-15.10.11:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.04.26-15.10.11:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.04.26-15.10.11:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.04.26-15.10.11:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.04.26-15.10.11:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.04.26-15.10.11:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.04.26-15.10.11:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.04.26-15.10.12:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Fire01.uasset"
+[2023.04.26-15.10.12:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.04.26-15.10.12:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.04.26-15.10.12:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.04.26-15.10.12:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Light01.uasset"
+[2023.04.26-15.10.12:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.04.26-15.10.12:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Light02.uasset"
+[2023.04.26-15.10.12:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.04.26-15.10.12:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.04.26-15.10.12:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.04.26-15.10.12:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.04.26-15.10.12:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.04.26-15.10.12:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.04.26-15.10.12:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.04.26-15.10.12:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.04.26-15.10.12:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.04.26-15.10.12:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Steam01.uasset"
+[2023.04.26-15.10.12:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.04.26-15.10.12:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.04.26-15.10.12:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.04.26-15.10.12:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.04.26-15.10.12:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.04.26-15.10.12:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.04.26-15.10.12:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.04.26-15.10.12:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.04.26-15.10.12:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.04.26-15.10.12:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.04.26-15.10.12:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.04.26-15.10.12:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.04.26-15.10.12:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.04.26-15.10.12:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.04.26-15.10.12:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.04.26-15.10.12:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.04.26-15.10.12:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.04.26-15.10.14:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.04.26-15.10.14:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.04.26-15.10.14:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.04.26-15.10.14:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.04.26-15.10.14:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.04.26-15.10.14:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/StarterMap.umap"
+[2023.04.26-15.10.15:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.04.26-15.10.15:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.04.26-15.10.15:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.04.26-15.10.15:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.04.26-15.10.15:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.04.26-15.10.15:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.04.26-15.10.15:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.04.26-15.10.15:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.04.26-15.10.15:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.04.26-15.10.15:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.04.26-15.10.15:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.04.26-15.10.15:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.04.26-15.10.15:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.04.26-15.10.15:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.04.26-15.10.15:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.04.26-15.10.15:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.04.26-15.10.15:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.04.26-15.10.15:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.04.26-15.10.15:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.04.26-15.10.15:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.04.26-15.10.15:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.04.26-15.10.15:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.04.26-15.10.15:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.04.26-15.10.15:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.04.26-15.10.15:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.04.26-15.10.15:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.04.26-15.10.15:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.04.26-15.10.15:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.04.26-15.10.15:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.04.26-15.10.15:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.04.26-15.10.15:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.04.26-15.10.15:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.04.26-15.10.15:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.04.26-15.10.15:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.04.26-15.10.15:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.04.26-15.10.15:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.04.26-15.10.15:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.04.26-15.10.16:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.04.26-15.10.16:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.04.26-15.10.16:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.04.26-15.10.16:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.04.26-15.10.16:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.04.26-15.10.16:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.04.26-15.10.16:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.04.26-15.10.16:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.04.26-15.10.16:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.04.26-15.10.16:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.04.26-15.10.16:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.04.26-15.10.16:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.04.26-15.10.16:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.04.26-15.10.16:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.04.26-15.10.16:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.04.26-15.10.16:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.04.26-15.10.16:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.04.26-15.10.16:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.04.26-15.10.16:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.04.26-15.10.16:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.04.26-15.10.16:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.04.26-15.10.16:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.04.26-15.10.16:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.04.26-15.10.16:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.04.26-15.10.16:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.04.26-15.10.16:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.04.26-15.10.16:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.04.26-15.10.16:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.04.26-15.10.16:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Door.uasset"
+[2023.04.26-15.10.16:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.04.26-15.10.16:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.04.26-15.10.16:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.04.26-15.10.16:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.04.26-15.10.16:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2023.04.26-15.10.16:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.04.26-15.10.16:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.04.26-15.10.16:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.04.26-15.10.16:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.04.26-15.10.16:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.04.26-15.10.16:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.04.26-15.10.16:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.04.26-15.10.16:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.04.26-15.10.16:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.04.26-15.10.16:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.04.26-15.10.16:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.04.26-15.10.16:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.04.26-15.10.16:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.04.26-15.10.16:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2023.04.26-15.10.16:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2023.04.26-15.10.16:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.04.26-15.10.16:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.04.26-15.10.16:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.04.26-15.10.16:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.04.26-15.10.16:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.04.26-15.10.16:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.04.26-15.10.16:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.04.26-15.10.16:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.04.26-15.10.16:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.04.26-15.10.16:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.04.26-15.10.16:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.04.26-15.10.16:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.04.26-15.10.16:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.04.26-15.10.16:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.04.26-15.10.16:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.04.26-15.10.16:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.04.26-15.10.16:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.04.26-15.10.16:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.04.26-15.10.16:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.04.26-15.10.16:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.04.26-15.10.16:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.04.26-15.10.16:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.04.26-15.10.16:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.04.26-15.10.16:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.04.26-15.10.16:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.04.26-15.10.17:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.04.26-15.10.17:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.04.26-15.10.17:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.04.26-15.10.17:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.04.26-15.10.17:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.04.26-15.10.18:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.04.26-15.10.18:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.04.26-15.10.18:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.04.26-15.10.19:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.04.26-15.10.19:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.04.26-15.10.19:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.04.26-15.10.19:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.04.26-15.10.19:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.04.26-15.10.19:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.04.26-15.10.20:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.04.26-15.10.20:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.04.26-15.10.20:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.04.26-15.10.20:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.04.26-15.10.20:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.04.26-15.10.20:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.04.26-15.10.20:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.04.26-15.10.20:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.04.26-15.10.21:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.04.26-15.10.21:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.04.26-15.10.21:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.04.26-15.10.21:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.04.26-15.10.21:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.04.26-15.10.22:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.04.26-15.10.22:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.04.26-15.10.22:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.04.26-15.10.23:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.04.26-15.10.23:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.04.26-15.10.23:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.04.26-15.10.24:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.04.26-15.10.24:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.04.26-15.10.24:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.04.26-15.10.24:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.04.26-15.10.24:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.04.26-15.10.24:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.04.26-15.10.24:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.04.26-15.10.24:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.04.26-15.10.24:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.04.26-15.10.24:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.04.26-15.10.25:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.04.26-15.10.25:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.04.26-15.10.25:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.04.26-15.10.25:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.04.26-15.10.25:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.04.26-15.10.25:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.04.26-15.10.26:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.04.26-15.10.26:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.04.26-15.10.26:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.04.26-15.10.26:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.04.26-15.10.26:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.04.26-15.10.27:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.04.26-15.10.27:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.04.26-15.10.27:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.04.26-15.10.28:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.04.26-15.10.28:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.04.26-15.10.28:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.04.26-15.10.28:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.04.26-15.10.29:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.04.26-15.10.29:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.04.26-15.10.29:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.04.26-15.10.29:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.04.26-15.10.29:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.04.26-15.10.30:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.04.26-15.10.30:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.04.26-15.10.30:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.04.26-15.10.30:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.04.26-15.10.31:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.04.26-15.10.31:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.04.26-15.10.32:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.04.26-15.10.32:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.04.26-15.10.32:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.04.26-15.10.32:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.04.26-15.10.32:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.04.26-15.10.32:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.04.26-15.10.33:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.04.26-15.10.33:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.04.26-15.10.33:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.04.26-15.10.33:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.04.26-15.10.33:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.04.26-15.10.33:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.04.26-15.10.33:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.04.26-15.10.33:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.04.26-15.10.33:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.04.26-15.10.33:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.04.26-15.10.33:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.04.26-15.10.33:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.04.26-15.10.33:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.04.26-15.10.33:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.04.26-15.10.33:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.04.26-15.10.34:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.04.26-15.10.34:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.04.26-15.10.34:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.04.26-15.10.34:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.04.26-15.10.34:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.04.26-15.10.35:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.04.26-15.10.35:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.04.26-15.10.35:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.04.26-15.10.35:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.04.26-15.10.38:436][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2023.04.26-15.10.39:334][  0]LogSavePackage: Moving '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Floor_400x4006DC4920C4800FA48A2AEC69405BBC09C.tmp' to '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2023.04.26-15.10.39:376][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2023.04.26-15.10.39:395][  0]Cmd: MAP LOAD FILE="../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.26-15.10.39:424][  0]LightingResults: New page: Compilação de Iluminação
+[2023.04.26-15.10.39:817][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-15.10.40:164][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-15.10.40:652][  0]MapCheck: New page: Verificação de Mapa
+[2023.04.26-15.10.40:652][  0]LightingResults: New page: Compilação de Iluminação
+[2023.04.26-15.10.41:484][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-15.10.42:142][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.26-15.10.43:869][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2023.04.26-15.10.43:954][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2023.04.26-15.10.44:457][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.04.26-15.10.44:458][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.04.26-15.10.45:588][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.26-15.10.45:831][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.26-15.10.45:838][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.26-15.10.45:854][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 15,253ms to complete.
+[2023.04.26-15.10.45:879][  0]LogFileHelpers: Loading map 'Minimal_Default' took 6.462
+[2023.04.26-15.10.49:823][  0]LogUnrealEdMisc: Total Editor Startup Time, took 246.039
+[2023.04.26-15.10.51:881][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-15.10.51:907][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-15.10.51:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-15.10.51:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-15.10.52:358][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3822 classes and 928 folders.
+[2023.04.26-15.10.52:690][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.04.26-15.10.52:877][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.26-15.10.52:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.52:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-15.10.52:914][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.52:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.04.26-15.10.52:930][  0]LogPakFile: OnPakFileMounted2Time == 0.052563
+[2023.04.26-15.10.52:994][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.26-15.10.52:994][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.52:994][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.26-15.10.52:994][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.52:995][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.04.26-15.10.52:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000740
+[2023.04.26-15.10.53:012][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.26-15.10.53:012][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:012][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.26-15.10.53:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:012][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.04.26-15.10.53:012][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2023.04.26-15.10.53:069][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-15.10.53:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-15.10.53:069][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:069][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.04.26-15.10.53:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.04.26-15.10.53:082][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.26-15.10.53:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.26-15.10.53:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.04.26-15.10.53:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.04.26-15.10.53:092][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.26-15.10.53:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.26-15.10.53:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.04.26-15.10.53:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.04.26-15.10.53:107][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.26-15.10.53:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.26-15.10.53:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:107][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.04.26-15.10.53:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.04.26-15.10.53:114][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.26-15.10.53:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.26-15.10.53:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.04.26-15.10.53:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2023.04.26-15.10.53:141][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.26-15.10.53:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.26-15.10.53:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.04.26-15.10.53:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.04.26-15.10.53:204][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.26-15.10.53:204][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:204][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.26-15.10.53:204][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:204][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.04.26-15.10.53:204][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.26-15.10.53:257][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.26-15.10.53:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.26-15.10.53:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.04.26-15.10.53:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.04.26-15.10.53:300][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.26-15.10.53:301][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:301][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.26-15.10.53:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:301][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.04.26-15.10.53:301][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.04.26-15.10.53:330][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-15.10.53:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-15.10.53:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.04.26-15.10.53:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2023.04.26-15.10.53:346][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.26-15.10.53:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.26-15.10.53:347][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:347][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.04.26-15.10.53:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.26-15.10.53:372][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.26-15.10.53:372][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:372][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.26-15.10.53:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.04.26-15.10.53:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2023.04.26-15.10.53:393][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.26-15.10.53:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-15.10.53:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:393][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.04.26-15.10.53:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.04.26-15.10.53:395][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.26-15.10.53:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.26-15.10.53:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.04.26-15.10.53:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.04.26-15.10.53:417][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.26-15.10.53:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.26-15.10.53:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:417][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.04.26-15.10.53:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2023.04.26-15.10.53:437][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-15.10.53:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-15.10.53:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:437][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.04.26-15.10.53:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2023.04.26-15.10.53:457][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-15.10.53:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-15.10.53:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:457][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.04.26-15.10.53:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.26-15.10.53:459][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.26-15.10.53:459][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:459][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.26-15.10.53:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:459][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.04.26-15.10.53:459][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.04.26-15.10.53:480][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.26-15.10.53:480][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:480][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.26-15.10.53:480][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:480][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.04.26-15.10.53:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2023.04.26-15.10.53:482][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.26-15.10.53:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.26-15.10.53:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:483][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.04.26-15.10.53:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.04.26-15.10.53:504][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.26-15.10.53:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.26-15.10.53:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.04.26-15.10.53:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2023.04.26-15.10.53:560][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.26-15.10.53:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.26-15.10.53:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:560][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.04.26-15.10.53:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.04.26-15.10.53:574][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.26-15.10.53:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.26-15.10.53:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.26-15.10.53:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Programas/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.04.26-15.10.53:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Programas/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.04.26-15.10.53:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.26-15.10.55:066][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2023.04.26-15.10.55:208][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2023.04.26-15.10.56:250][  0]LogSlate: Took 0.047736 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.26-15.10.56:319][  0]LogSlate: Took 0.031077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.26-15.10.56:417][  0]LogSlate: Took 0.009375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.26-15.10.57:058][  0]LogRenderer: Reallocating scene render targets to support 964x428 Format 10 NumSamples 1 (Frame:1).
+[2023.04.26-15.10.57:879][  0]LogSlate: Took 0.012541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.26-15.10.58:628][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.26-15.10.58:628][  0]LogLoad: (Engine Initialization) Total time: 254.84 seconds
+[2023.04.26-15.10.58:628][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.26-15.10.59:103][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2023.04.26-15.10.59:103][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2023.04.26-15.11.01:057][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.26-15.11.02:358][  1]LogAssetRegistry: Asset discovery search completed in 178.2545 seconds
+[2023.04.26-15.11.02:763][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.016124 seconds (updated 0 objects)
+[2023.04.26-15.11.10:786][308]Cmd: DELETE
+[2023.04.26-15.11.10:817][308]Cmd: ACTOR DELETE
+[2023.04.26-15.11.11:844][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.26-15.11.11:958][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.26-15.11.11:959][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.26-15.11.11:959][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.26-15.11.11:960][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.26-15.11.11:960][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.26-15.11.11:965][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.26-15.11.11:988][308]LogEditorActor: Deleted 6 Actors (0.452 secs)
+[2023.04.26-15.11.20:096][903]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.26-15.11.20:920][918]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.26-15.11.21:005][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.26-15.11.21:208][918]LogSavePackage: Moving '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Minimal_DefaultB6910A5543025D74968A61AF80EE1105.tmp' to '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.04.26-15.11.21:328][918]LogSavePackage: Moving '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Minimal_Default_BuiltDataD56AC2124C5C9B4E40EAE8B1C7C6FE39.tmp' to '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.04.26-15.11.21:407][918]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.26-15.11.21:407][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.04.26-15.11.21:407][918]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.04.26-15.11.26:061][253]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.26-15.11.26:227][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.26-15.11.26:434][253]PIE: New page: Sessão de PIE : Minimal_Default (26 de abr de 2023 09:11:26)
+[2023.04.26-15.11.26:623][253]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.26-15.11.26:651][253]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.26-15.11.26:671][253]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.04.26-15.11.26:758][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086810s)
+[2023.04.26-15.11.26:773][253]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.04.26-15.11.26:820][253]LogPlayLevel: PIE: World Init took: (0.062067s)
+[2023.04.26-15.11.26:832][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.161281s)
+[2023.04.26-15.11.26:875][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.26-15.11.26:913][253]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.26-15.11.26:913][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.26-15.11.26:913][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.26-15.11.26:914][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.26-15.11.26:914][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.26-15.11.26:914][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.26-15.11.26:914][253]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.26-15.11.26:950][253]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.26-15.11.26:950][253]LogAudioMixer: Display: 1: FrontRight
+[2023.04.26-15.11.26:964][253]LogAudioMixer: Display: Using Audio Device Fones de ouvido (AA-ER3)
+[2023.04.26-15.11.26:964][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.26-15.11.26:964][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.26-15.11.26:964][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.26-15.11.26:965][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.26-15.11.26:965][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.26-15.11.26:965][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.26-15.11.26:967][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.26-15.11.26:967][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.26-15.11.26:967][253]LogInit: FAudioDevice initialized.
+[2023.04.26-15.11.26:967][253]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2023.04.26-15.11.27:080][253]LogLoad: Game class is 'GameModeBase'
+[2023.04.26-15.11.27:376][253]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.04.26-12.11.27
+[2023.04.26-15.11.27:436][253]LogWorld: Bringing up level for play took: 0.045340
+[2023.04.26-15.11.27:499][253]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2023.04.26-15.11.27:953][253]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2023.04.26-15.11.28:234][253]PIE: Servidor conectado
+[2023.04.26-15.11.28:235][253]PIE: Play in editor total start time 2,152 seconds.
+[2023.04.26-15.11.28:882][258]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.04.26-15.11.38:822][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-15.11.38:837][107]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.04.26-15.11.38:972][107]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.04.26-15.11.38:991][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-15.11.39:099][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.26-15.11.39:122][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.26-15.11.39:267][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.26-15.11.39:306][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-15.11.39:308][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.26-15.11.39:361][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.26-15.11.39:695][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.04.26-15.11.39:798][108]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.04.26-15.11.48:218][742]Cmd: SELECT NONE
+[2023.04.26-15.11.49:513][849]Cmd: SELECT NONE
+[2023.04.26-15.11.53:728][142]Cmd: SELECT NONE
+[2023.04.26-15.12.19:748][192]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.26-15.12.20:815][232]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.26-15.12.21:440][273]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2023.04.26-15.12.28:477][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.04.26-15.12.28:503][810]LogSavePackage: Moving '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Minimal_DefaultF0A95917403DB2598A9ED5B6918EB191.tmp' to '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default.umap'
+[2023.04.26-15.12.28:545][810]LogSavePackage: Moving '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Saved/Minimal_Default_BuiltData1A64DC6743106AB4D3878989E0EF96B1.tmp' to '../../../../../Projetos/GitHub/SENAI-CIMATEC_IC_Treinamento_UnrealEngine/TreinamentoUE4/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2023.04.26-15.12.28:560][810]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.26-15.12.28:560][810]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2023.04.26-15.12.28:560][810]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.04.26-15.12.34:625][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:625][216]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.04.26-15.12.34:625][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:625][216]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: URL: C:\Users\XPXLI\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: URL: C:\Users\XPXLI\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: CreateProc failed: O sistema não pode encontrar o arquivo especificado. (0x00000002)
+[2023.04.26-15.12.34:626][216]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.04.26-15.12.48:615][669]LogSlate: Window 'Login do Controle de Origem' being destroyed
+[2023.04.26-15.13.10:630][285]LogSlate: Window 'Plugins' being destroyed
+[2023.04.26-15.13.10:638][285]LogSlate: Window 'Plugins' being destroyed
+[2023.04.26-15.13.10:639][285]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
